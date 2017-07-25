@@ -4,6 +4,7 @@
 		"english": "Anglais",
 		"french": "Français",
 		"italian": "Italien",
+		"portuguese": "Portugais",
 		"chooseLanguage": "Choisissez votre langue",
 		"currentLanguage": "Français",
 		"secureEmail": "Messagerie Sécurisée",
@@ -25,7 +26,7 @@
 		"imprints": "Mentions légales",
 		"privacyPolicy": "Politique de confidentialité",
 		"termsAndConditions": "Termes &amp; Conditions",
-		"team":"L'équipe",
+		"team": "L'équipe",
 		"feedbackForum": "Forum"
 	},
 	"home": {

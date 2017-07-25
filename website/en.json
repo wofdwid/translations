@@ -4,6 +4,7 @@
 		"english": "English",
 		"french": "French",
 		"italian": "Italian",
+		"portuguese": "Portuguese",
 		"chooseLanguage": "Choose your language",
 		"currentLanguage": "English",
 		"secureEmail": "Secure Email",
@@ -28,7 +29,7 @@
 		"transparencyReport": "Transparency Report",
 		"pricing": "Pricing",
 		"support": "Support",
-		"team":"Team",
+		"team": "Team",
 		"feedbackForum": "Feedback Forum"
 	},
 	"home": {
